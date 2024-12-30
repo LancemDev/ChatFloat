@@ -30,7 +30,7 @@ You can install Node.js and npm using [nvm](https://github.com/nvm-sh/nvm#instal
 
 1. Clone the repository using the project's Git URL:
    ```sh
-   git clone <YOUR_GIT_URL>
+   git clone https://github.com/LancemDev/ChatFloat.git
    ```
 
 2. Navigate to the project directory:
